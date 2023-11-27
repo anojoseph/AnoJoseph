@@ -7,7 +7,7 @@
 - 👯 Open for Collaboration: I'm enthusiastic about collaborating on exciting projects. If you have a unique idea or need a hand in your development journey, let's connect!
 - 🤔 Seeking Industry Insight: I'm on the lookout for valuable insights and discussions to stay ahead in the dynamic realm of software engineering.
 - 💬 Ask Me About: Feel free to ask me anything related to software development and frontend technologies. I love sharing knowledge and learning from others.
-- 📫 How to Reach Me: anojoseph2011@gmail.com via Email.
+- 📫 How to Reach Me: anojoseph2011@gmail.com via email.
 - 😄 Pronouns: He/Him
 - 👨🏻‍💻 Programming Languages : Open AI · Full Stack · Fronted End  · Django · Java Script · Node.js · React.js · Typescript 
 - 🌐 Angular · HTML · React · Adobe photoshop
