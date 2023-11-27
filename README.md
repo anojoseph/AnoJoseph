@@ -9,6 +9,6 @@
 - 💬 Ask Me About: Feel free to ask me anything related to software development and frontend technologies. I love sharing knowledge and learning from others.
 - 📫 How to Reach Me: anojoseph2011@gmail.com or connect with me on LinkedIn or Twitter.
 - 😄 Pronouns: He/Him
-- 👨🏻‍💻 Programming Languages : Open AI · Full Stack · Fronted End  · Django · Java Script · Node.js · React.js · Vue.js · Typescript 
+- 👨🏻‍💻 Programming Languages : Open AI · Full Stack · Fronted End  · Django · Java Script · Node.js · React.js · Typescript 
 - 🌐 Angular · HTML · React · Adobe photoshop
 - 💡 MongoDB · Version Control · Git · Artificial Intelligence · Machine Learning
