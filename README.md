@@ -1,4 +1,5 @@
 ### Hello! 👋 I'm Ano Joseph ✨
+
 ** I'm Ano Joseph, a passionate software engineer with a keen interest in Frontend Development. I thrive on turning creative ideas into functional and visually appealing digital experiences.
 
 - 🔭 Currently at Work: I'm engaged as a software developer, where I channel my skills to create robust and user-friendly applications.
